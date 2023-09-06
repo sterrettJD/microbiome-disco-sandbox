@@ -9,7 +9,7 @@
   - `cd microbiome-disco-sandbox`
 - Look at the currently existing git branches
   - `git branch` 
-- Create git branch to show that you're figuring out how to work on branches (name it something about adding your name to the readme
+- Create git branch to show that you're figuring out how to work on branches (name it something about adding your name to the readme)
   - `git branch new_branch_name`
 - Move yourself to the new branch, and make sure you're on the correct branch
   - `git checkout new_branch_name`
