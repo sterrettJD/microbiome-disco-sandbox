@@ -16,7 +16,7 @@
   - Running `git branch` should now show that you're on this new branch.
 - Add your name to this file, right below this bullet point
   - John
-  - NAME_2
+  - Biba
   - NAME_3
   - You can do this from the command line by running `nano README.md`. This gets you working in a text editor. You can hit `Ctrl+X` to exit (make sure to hit `Y` to save your changes if you made any. It will prompt you for a file name. Just press `enter` to save with the current filename.
 - Add and commit the changes you've made
