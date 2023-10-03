@@ -1,0 +1,2 @@
+microbiome data is hard to simulate, use appropriate distribution test to 
+see where data lies. T-test, ANOVA, correlation, linear regression.
