@@ -1,0 +1,2 @@
+operational taxonomic units, groups that are very similar. Centroid based, 
+single linkage, complete linkage, average linkage.
