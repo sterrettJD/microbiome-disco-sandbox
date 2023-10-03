@@ -1,0 +1,3 @@
+shotgun sequencing, expensive and not easily comparable vs sequence only a 
+single common gene. Now use norm pace to retrieve data. 
+
