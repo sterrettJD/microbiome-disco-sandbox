@@ -1,0 +1,4 @@
+three visualization methods: PCoA, PCA (similar to PCoA but using 
+Euclidean distances, not great for microbiome because of the beta 
+diversity but still used), NMDS (much more reliable statistical 
+foundation). People use PCoA more than NMDS. 
