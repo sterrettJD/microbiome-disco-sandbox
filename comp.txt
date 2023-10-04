@@ -1,0 +1,2 @@
+useful examples within the video. qPCR vs spike-ins. Correlation is hard 
+to infer (SparCC, SPIEC-EASI)
