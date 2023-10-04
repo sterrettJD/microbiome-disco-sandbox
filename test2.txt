@@ -1,0 +1,5 @@
+linear models not always appropriate, for one test we use alpha =0.05 but 
+there are so many tests needed. Bonferroni to accommodate all the 
+p-values. False discovery rate, controlling the expected number of false 
+positives. Negative binomial distribution, number of successes of 
+repeating an event before you have a failure. 
