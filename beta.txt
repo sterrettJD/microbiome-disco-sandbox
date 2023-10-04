@@ -1,0 +1,3 @@
+diversity between environments, one point tends to always be an outlier, 
+straight forward r coding.
+
